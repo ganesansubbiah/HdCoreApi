@@ -61,6 +61,8 @@ namespace HDCoreApi
             app.UseCors(MyAllowSpecificationOrgin);
             app.UseHttpsRedirection();
             app.UseMvc();
+            //First Commit
+
         }
     }
 }
