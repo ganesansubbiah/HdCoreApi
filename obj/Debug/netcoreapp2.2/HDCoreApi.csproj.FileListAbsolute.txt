@@ -1,0 +1,14 @@
+D:\Projects\Core\HDCoreApi\bin\Debug\netcoreapp2.2\HDCoreApi.deps.json
+D:\Projects\Core\HDCoreApi\bin\Debug\netcoreapp2.2\HDCoreApi.runtimeconfig.json
+D:\Projects\Core\HDCoreApi\bin\Debug\netcoreapp2.2\HDCoreApi.runtimeconfig.dev.json
+D:\Projects\Core\HDCoreApi\bin\Debug\netcoreapp2.2\HDCoreApi.dll
+D:\Projects\Core\HDCoreApi\bin\Debug\netcoreapp2.2\HDCoreApi.pdb
+D:\Projects\Core\HDCoreApi\obj\Debug\netcoreapp2.2\HDCoreApi.csprojAssemblyReference.cache
+D:\Projects\Core\HDCoreApi\obj\Debug\netcoreapp2.2\HDCoreApi.csproj.CoreCompileInputs.cache
+D:\Projects\Core\HDCoreApi\obj\Debug\netcoreapp2.2\HDCoreApi.RazorAssemblyInfo.cache
+D:\Projects\Core\HDCoreApi\obj\Debug\netcoreapp2.2\HDCoreApi.RazorAssemblyInfo.cs
+D:\Projects\Core\HDCoreApi\obj\Debug\netcoreapp2.2\HDCoreApi.AssemblyInfoInputs.cache
+D:\Projects\Core\HDCoreApi\obj\Debug\netcoreapp2.2\HDCoreApi.AssemblyInfo.cs
+D:\Projects\Core\HDCoreApi\obj\Debug\netcoreapp2.2\HDCoreApi.RazorTargetAssemblyInfo.cache
+D:\Projects\Core\HDCoreApi\obj\Debug\netcoreapp2.2\HDCoreApi.dll
+D:\Projects\Core\HDCoreApi\obj\Debug\netcoreapp2.2\HDCoreApi.pdb
